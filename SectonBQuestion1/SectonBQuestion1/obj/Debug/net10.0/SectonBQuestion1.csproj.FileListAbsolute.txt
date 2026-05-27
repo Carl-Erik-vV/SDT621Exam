@@ -1,0 +1,14 @@
+C:\Users\erikv\source\repos\SectonBQuestion1\SectonBQuestion1\bin\Debug\net10.0\SectonBQuestion1.exe
+C:\Users\erikv\source\repos\SectonBQuestion1\SectonBQuestion1\bin\Debug\net10.0\SectonBQuestion1.deps.json
+C:\Users\erikv\source\repos\SectonBQuestion1\SectonBQuestion1\bin\Debug\net10.0\SectonBQuestion1.runtimeconfig.json
+C:\Users\erikv\source\repos\SectonBQuestion1\SectonBQuestion1\bin\Debug\net10.0\SectonBQuestion1.dll
+C:\Users\erikv\source\repos\SectonBQuestion1\SectonBQuestion1\bin\Debug\net10.0\SectonBQuestion1.pdb
+C:\Users\erikv\source\repos\SectonBQuestion1\SectonBQuestion1\obj\Debug\net10.0\SectonBQuestion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikv\source\repos\SectonBQuestion1\SectonBQuestion1\obj\Debug\net10.0\SectonBQuestion1.AssemblyInfoInputs.cache
+C:\Users\erikv\source\repos\SectonBQuestion1\SectonBQuestion1\obj\Debug\net10.0\SectonBQuestion1.AssemblyInfo.cs
+C:\Users\erikv\source\repos\SectonBQuestion1\SectonBQuestion1\obj\Debug\net10.0\SectonBQuestion1.csproj.CoreCompileInputs.cache
+C:\Users\erikv\source\repos\SectonBQuestion1\SectonBQuestion1\obj\Debug\net10.0\SectonBQuestion1.dll
+C:\Users\erikv\source\repos\SectonBQuestion1\SectonBQuestion1\obj\Debug\net10.0\refint\SectonBQuestion1.dll
+C:\Users\erikv\source\repos\SectonBQuestion1\SectonBQuestion1\obj\Debug\net10.0\SectonBQuestion1.pdb
+C:\Users\erikv\source\repos\SectonBQuestion1\SectonBQuestion1\obj\Debug\net10.0\SectonBQuestion1.genruntimeconfig.cache
+C:\Users\erikv\source\repos\SectonBQuestion1\SectonBQuestion1\obj\Debug\net10.0\ref\SectonBQuestion1.dll

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erikv\\source\\repos\\SectionBQuestion1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33DF4A46-7344-4FAF-9AF0-B0424178B3F0}|SectionBQuestion1.2\\SectionBQuestion1.2.csproj|c:\\users\\erikv\\source\\repos\\sectionbquestion1.2\\sectionbquestion1.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DF4A46-7344-4FAF-9AF0-B0424178B3F0}|SectionBQuestion1.2\\SectionBQuestion1.2.csproj|solutionrelative:sectionbquestion1.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DF4A46-7344-4FAF-9AF0-B0424178B3F0}|SectionBQuestion1.2\\SectionBQuestion1.2.csproj|c:\\users\\erikv\\source\\repos\\sectionbquestion1.2\\sectionbquestion1.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33DF4A46-7344-4FAF-9AF0-B0424178B3F0}|SectionBQuestion1.2\\SectionBQuestion1.2.csproj|solutionrelative:sectionbquestion1.2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\erikv\\source\\repos\\SectionBQuestion1.2\\SectionBQuestion1.2\\Form1.cs",
+              "RelativeDocumentMoniker": "SectionBQuestion1.2\\Form1.cs",
+              "ToolTip": "C:\\Users\\erikv\\source\\repos\\SectionBQuestion1.2\\SectionBQuestion1.2\\Form1.cs*",
+              "RelativeToolTip": "SectionBQuestion1.2\\Form1.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T08:03:07.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erikv\\source\\repos\\SectionBQuestion1.2\\SectionBQuestion1.2\\Form1.cs",
+              "RelativeDocumentMoniker": "SectionBQuestion1.2\\Form1.cs",
+              "ToolTip": "C:\\Users\\erikv\\source\\repos\\SectionBQuestion1.2\\SectionBQuestion1.2\\Form1.cs [Design]*",
+              "RelativeToolTip": "SectionBQuestion1.2\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T08:00:55.336Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

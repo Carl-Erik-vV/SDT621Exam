@@ -1,0 +1,16 @@
+C:\Users\erikv\source\repos\SectionBQuestion1.2\SectionBQuestion1.2\bin\Debug\net10.0-windows\SectionBQuestion1.2.exe
+C:\Users\erikv\source\repos\SectionBQuestion1.2\SectionBQuestion1.2\bin\Debug\net10.0-windows\SectionBQuestion1.2.deps.json
+C:\Users\erikv\source\repos\SectionBQuestion1.2\SectionBQuestion1.2\bin\Debug\net10.0-windows\SectionBQuestion1.2.runtimeconfig.json
+C:\Users\erikv\source\repos\SectionBQuestion1.2\SectionBQuestion1.2\bin\Debug\net10.0-windows\SectionBQuestion1.2.dll
+C:\Users\erikv\source\repos\SectionBQuestion1.2\SectionBQuestion1.2\bin\Debug\net10.0-windows\SectionBQuestion1.2.pdb
+C:\Users\erikv\source\repos\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1._2.Form1.resources
+C:\Users\erikv\source\repos\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1.2.csproj.GenerateResource.cache
+C:\Users\erikv\source\repos\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikv\source\repos\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1.2.AssemblyInfoInputs.cache
+C:\Users\erikv\source\repos\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1.2.AssemblyInfo.cs
+C:\Users\erikv\source\repos\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1.2.csproj.CoreCompileInputs.cache
+C:\Users\erikv\source\repos\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1.2.dll
+C:\Users\erikv\source\repos\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\refint\SectionBQuestion1.2.dll
+C:\Users\erikv\source\repos\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1.2.pdb
+C:\Users\erikv\source\repos\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\SectionBQuestion1.2.genruntimeconfig.cache
+C:\Users\erikv\source\repos\SectionBQuestion1.2\SectionBQuestion1.2\obj\Debug\net10.0-windows\ref\SectionBQuestion1.2.dll
